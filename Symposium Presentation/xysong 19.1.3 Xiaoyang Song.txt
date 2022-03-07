@@ -1,0 +1,254 @@
+WEBVTT
+
+1
+00:00:03.870 --> 00:00:09.719
+Xiaoyang Song: Okay, this is my presentation video um let's get started.
+
+2
+00:00:13.110 --> 00:00:19.200
+Xiaoyang Song: Hello everyone, this is shelly oh and i'm currently a junior student majoring in mathematics and data science.
+
+3
+00:00:20.310 --> 00:00:27.750
+Xiaoyang Song: Today i'm going to be talking about my Europe research project a sin Patrick speciation more importantly Indian Ocean.
+
+4
+00:00:29.460 --> 00:00:30.270
+Xiaoyang Song: Okay let's start it.
+
+5
+00:00:31.740 --> 00:00:41.910
+Xiaoyang Song: So before we jump into the material let's think about what what are different, what are different between the terrestrial environment and the American Government.
+
+6
+00:00:43.410 --> 00:00:56.730
+Xiaoyang Song: In the terrestrial environment there exists lots of heart barriers, like the mountain the ocean, and so the job graphic escalation is really easy to form and.
+
+7
+00:00:57.810 --> 00:01:04.140
+Xiaoyang Song: Also on the land there and the resource or rage and they're also.
+
+8
+00:01:05.310 --> 00:01:11.970
+Xiaoyang Song: hike up the habitat a cell phone with high complexity, however, in the marine environment.
+
+9
+00:01:13.200 --> 00:01:36.150
+Xiaoyang Song: there's it's really hard to imagine the existence of such a absolute barriers, because of the ocean Kurt ocean current and the fluidity of the ocean and more over many larvae so invertebrates has strong disperse up entities so and it's reasonable to expect morrison PETRA in the ocean.
+
+10
+00:01:37.920 --> 00:01:47.490
+Xiaoyang Song: So let's look at some definitions first, so the definitions for Patrick speciation sin Patrick speciation are given below are given as the foley.
+
+11
+00:01:48.720 --> 00:01:50.790
+Xiaoyang Song: To put it in, to put it in short.
+
+12
+00:01:52.680 --> 00:02:02.580
+Xiaoyang Song: Patrick speciation requires geographic isolation mouse and Patrick test out that's the main difference between this time there's two types of speciation mechanisms.
+
+13
+00:02:04.110 --> 00:02:15.420
+Xiaoyang Song: So yeah our study with beer to of data set which includes sister species pairs and age and the aging information for each species pairs.
+
+14
+00:02:16.080 --> 00:02:27.300
+Xiaoyang Song: Actually, out of those Informations are extracted by interpreting the fellow generic trees on the picture on the right hand side is a example of evolutionary tree.
+
+15
+00:02:28.440 --> 00:02:29.400
+Xiaoyang Song: We can see that.
+
+16
+00:02:30.840 --> 00:02:46.260
+Xiaoyang Song: there's two species are actually the sister species pair that we are interested in male the number label on the branch of the tree represents represents the age of the species.
+
+17
+00:02:47.370 --> 00:02:55.380
+Xiaoyang Song: And also posts on the wrench data of species, you know our data set and those data are retrieved from the obese open data set.
+
+18
+00:02:57.120 --> 00:03:04.650
+Xiaoyang Song: Okay us for our methodologies after building up a data set of marine species.
+
+19
+00:03:06.180 --> 00:03:11.400
+Xiaoyang Song: We compare the range over labs based on the following procedures were algorithms.
+
+20
+00:03:12.120 --> 00:03:30.480
+Xiaoyang Song: And the first 35 discuss of outliers and then compute arrange overlap computing the comics so data points and intersected areas of two species, then we use the test formula which is really important for our study to compare the range overlap for two species.
+
+21
+00:03:32.850 --> 00:03:41.790
+Xiaoyang Song: So here are two examples of how we compute the average overlap so first let's focus on the left hand side, we can see.
+
+22
+00:03:42.420 --> 00:03:58.530
+Xiaoyang Song: The blue point and the red points represent two doctorates have two different species, we can see well i'm just the blue species is merely distributed in the West Atlantic the rare species.
+
+23
+00:03:59.550 --> 00:04:00.540
+Xiaoyang Song: are distributed.
+
+24
+00:04:01.950 --> 00:04:15.090
+Xiaoyang Song: On the legacy investor Pacific so as it's really obvious from the map that that the shares no common habitats so it's really a natural, to say the orange over that myself is to.
+
+25
+00:04:16.140 --> 00:04:21.810
+Xiaoyang Song: hover on the right hand side stairs and became really different because we can we can see that.
+
+26
+00:04:22.830 --> 00:04:30.060
+Xiaoyang Song: there's a perfect overlap between the two between the habitat of these two species so by our calculation.
+
+27
+00:04:31.470 --> 00:04:36.810
+Xiaoyang Song: Your summer formula to overlap read over itself to point 97 this case.
+
+28
+00:04:38.070 --> 00:04:39.780
+Xiaoyang Song: Okay, so.
+
+29
+00:04:41.010 --> 00:04:42.540
+Xiaoyang Song: Based on that we can.
+
+30
+00:04:43.950 --> 00:04:57.330
+Xiaoyang Song: Do our analysis on our data set and here's the results um well, we can see this plot is the histogram of the distribution of Orange overlaps for other species and more data said.
+
+31
+00:04:58.230 --> 00:05:09.240
+Xiaoyang Song: In general, about 47% of specious pair have arranged overlap greater than point eight well 54% on average over overlap greater than Point five.
+
+32
+00:05:10.080 --> 00:05:23.340
+Xiaoyang Song: So, also from the histogram becomes observed that well out of battery and symmetric bossy both exist in this case on it, since there are no and dominates the others so.
+
+33
+00:05:24.690 --> 00:05:35.670
+Xiaoyang Song: it's it's quite an amazing result for us and we can also observed that the pattern of speciation varies across the claim.
+
+34
+00:05:36.780 --> 00:05:54.330
+Xiaoyang Song: And the relationship between a range overlap and also know, he also varies across species and this to plots are the example of this, for example, for a chorus vicious we can for one of the core species on the.
+
+35
+00:05:55.560 --> 00:06:05.700
+Xiaoyang Song: shows highly our poetry, because of the low level of regional APP for for scallops they exhibit exhibit the.
+
+36
+00:06:07.080 --> 00:06:09.810
+Xiaoyang Song: high degree of sin Patrick because of their loss of.
+
+37
+00:06:11.190 --> 00:06:14.640
+Xiaoyang Song: Species who shows a high range overlap.
+
+38
+00:06:15.840 --> 00:06:17.430
+Xiaoyang Song: yep and.
+
+39
+00:06:18.450 --> 00:06:30.720
+Xiaoyang Song: For a comparison study, if there are some predecessors this few who tried to determine the speciation mechanisms for some birds and vertebrates you'll see an orange overlaps in Asia node.
+
+40
+00:06:31.140 --> 00:06:45.660
+Xiaoyang Song: Which are kind of similar to our study, for example, we can see the two plus on the red hand side on this shows highly our pantries for this two species because of the we can.
+
+41
+00:06:46.770 --> 00:06:47.400
+Xiaoyang Song: Because of.
+
+42
+00:06:49.050 --> 00:06:58.650
+Xiaoyang Song: What well good plus shows um yeah but it's kind of quite different from our result in this study from a risk species because.
+
+43
+00:07:00.030 --> 00:07:07.650
+Xiaoyang Song: This plot is on the original exhibit the relationship between range overlap and know days for our core data set.
+
+44
+00:07:08.970 --> 00:07:23.730
+Xiaoyang Song: We can see it's kind of a have a have a have for added pageantry f4 angel read up of one angel run up to, or so out of Petraeus and make sure you are both important in our study.
+
+45
+00:07:24.600 --> 00:07:33.390
+Xiaoyang Song: Well, in their study wanted out of pageantry painter exhibit so is correct, different, even though it used to submit.
+
+46
+00:07:34.620 --> 00:07:47.040
+Xiaoyang Song: And then the other interesting thing about the renewal roadmap for really oh species, we observed that there exists a perfect overlap, which means the original roadmap is one.
+
+47
+00:07:47.490 --> 00:07:57.480
+Xiaoyang Song: For really all species for those kinds of species, we expect that the time is really long and it's long enough for real speciation signal to disappear.
+
+48
+00:07:57.960 --> 00:08:08.460
+Xiaoyang Song: So, because of the influence of the migration we're ocean current we may expect a random kind of randomly distribution of the range over it up for those kinds of species.
+
+49
+00:08:10.380 --> 00:08:12.630
+Xiaoyang Song: So our explanation is that.
+
+50
+00:08:14.310 --> 00:08:20.460
+Xiaoyang Song: The reason why out of Patrick speciation it's less likely to occur in the ocean, is that many marine animals too.
+
+51
+00:08:21.030 --> 00:08:43.740
+Xiaoyang Song: Many American species have strong disperse abilities so yeah because there's no absolute barriers in the ocean so other than that, instead of geographic factors ecological factors are argued as a main driving force in the ocean and speciation really occur under different.
+
+52
+00:08:44.910 --> 00:08:45.870
+Xiaoyang Song: Conditions.
+
+53
+00:08:46.890 --> 00:08:47.250
+Xiaoyang Song: yeah.
+
+54
+00:08:48.330 --> 00:09:00.690
+Xiaoyang Song: For the more fun that symmetric speciation is sometimes faster than the outer Patrick speciation because that selection can establish reproductive barrier which is really important for native state.
+
+55
+00:09:01.710 --> 00:09:05.730
+Xiaoyang Song: machine much more rapid than genetic genetic drift.
+
+56
+00:09:08.640 --> 00:09:10.800
+Xiaoyang Song: So after over conclusion.
+
+57
+00:09:12.240 --> 00:09:19.260
+Xiaoyang Song: They found out to some Patrick speciation is indeed the head of speciation mechanisms for many invertebrates and mammals in the ocean.
+
+58
+00:09:20.370 --> 00:09:28.830
+Xiaoyang Song: However, the speciation mechanisms for really oh species for miss unknown because of the last of real speciation the signal.
+
+59
+00:09:30.750 --> 00:09:39.450
+Xiaoyang Song: Also, increasing importance of sin petrol or late may lead to more frequent speciation which kind of contradicts with the fact that.
+
+60
+00:09:40.170 --> 00:09:48.300
+Xiaoyang Song: ocean has lower about diversity than deland but here to interpretations that they make for to this contradiction.
+
+61
+00:09:48.960 --> 00:10:02.400
+Xiaoyang Song: The first interpretation is that it may because this contradiction may just because our Patrick speciation is less likely to occur in the ocean messin Petrie happens frack frequently mean both Ocean and the land.
+
+62
+00:10:03.420 --> 00:10:16.200
+Xiaoyang Song: So the other interpretation or explanation for the contradiction is that on the speciation mechanisms is now the dominant factor that influence the biodiversity so.
+
+63
+00:10:18.690 --> 00:10:22.620
+Xiaoyang Song: Basically, death all my presentation, thank you all.
+

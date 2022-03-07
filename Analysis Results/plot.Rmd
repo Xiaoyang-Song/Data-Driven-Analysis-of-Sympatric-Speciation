@@ -1,0 +1,64 @@
+---
+title: "pllt"
+author: "Xiaoyang Song"
+date: "4/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(MASS)
+data <- read.csv("corals.csv")
+plot(data$X1.0627, data$X1, xlab = "Node Age (unit: myr)", ylab = "Range Overlap (proportion)",
+     main = "Range Overlap vs. Node Age [Dataset: Corals]", col="red")
+```
+```{r}
+
+#boxplot(data$X1, horizontal = FALSE, col = "grey", xlab = "")
+#abline(h = 0.74, col = "red", lty = 2)
+#mean(data$X1)
+hist(data$X1, col = "blue",xlab = "Range Overlap", main = "Distribution of Range Overlap [Dataset: Corals]")
+```
+
+
+```{r}
+full <- read.csv("co.csv")
+#hist(full$X1, col = "blue", xlab = "Range Overlap (unit: %)", main = "Distribution of Range Overlap [Whole dataset]")
+feather <- read.csv("featherstar.csv")
+feather <- feather[1:11,]
+hist(feather$X0.2504128)
+scallop <- read.csv("scallop.csv")
+scallop <- scallop[1:13,]
+plot(scallop$X15.92, scallop$X1,xlab = "Node Age (unit: myr)", ylab = "Range Overlap (proportion",
+     main = "Range Overlap vs. Node Age [Scallops]" ,col = "red")
+delto <- read.csv("delto.csv")
+delto <- delto[1:5,]
+plot(delto$X0.1525, delto$X0, xlab = "Node Age (unit: myr)", ylab = "Range Overlap (proportion)",
+     main = "Range Overlap vs. Node Age [Coral: Deltocyathus]", col = "red")
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
